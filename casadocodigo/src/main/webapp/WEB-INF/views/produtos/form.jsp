@@ -8,7 +8,7 @@
 </head>
 <body>
 	
-	<form action="/casadocodigo/produtos" method="post"> 
+	<form action="/casadocodigo/produtosGravar" method="POST"> 
 		<div>
 			<label>Titulo</label>
 			<input type="text" name="titulo">
